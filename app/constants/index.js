@@ -37,7 +37,7 @@ export const PROJECTS = [
     title: "Interview Prep",
     image: "/assets/projects/project-1.png",
     description:
-      "Interview Expert is an AI-powered platform that helps DePauw students prepare for interviews through mock interviews, real-time feedback, code practice, and document analysis tools.",
+      "Interview Prep is an AI-powered platform that helps DePauw students prepare for interviews through mock interviews, real-time feedback, code practice, and document analysis tools.",
     technologies: ["Next.js", "Node.js", "Gemini API", "Langchain", "PineconeDB", "RAG"],
     github: "https://github.com/itsnothuy/InterviewPrep",
     medium: "https://medium.com/@huytrngqu/interviewprep-an-ai-powered-mock-interview-platform-b50cfdd30fb9",
@@ -63,8 +63,8 @@ export const PROJECTS = [
   {
     title: "Coding Online",
     image: "/assets/projects/codingonline.webp",
-    description: "A real-time analytics dashboard built with Vue.js, Express, and MySQL.",
-    technologies: ["HTML", "CSS", , "Express", "Google Cloud Platform, Google Cloud SQL", ],
+    description: "A real-time online code-editor built with Node.js, Express and others.",
+    technologies: ["HTML", "CSS", , "Express", "Google Cloud Platform, Google Cloud SQL", "Node.js" ],
     github: "https://github.com/itsnothuy/Replit_Clone",
   },
 ];
