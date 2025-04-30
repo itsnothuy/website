@@ -37,7 +37,7 @@ const Hero = () => {
             animate="visible"
             className="text-5xl lg:text-7xl font-thin tracking-tight"
           >
-            Hi there, I'm Huy!
+            Hi there, I&apos;m Huy!
           </motion.h1>
 
           {/* <motion.span

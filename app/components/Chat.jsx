@@ -6,7 +6,7 @@ const Chat = () => {
   const [messages, setMessages] = useState([
     {
       role: 'assistant',
-      content: "Hi! I am Jade, Huy's personal AI assistant. How can I help you today?",
+      content: "Hi! I am Jade, Huy&apos; personal AI assistant. How can I help you today?",
     },
   ]);
 
